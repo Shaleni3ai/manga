@@ -4,9 +4,9 @@
   "artist": "1",
   "author": "2",
   "cover": "https://static.wikia.nocookie.net/weeky-shonen-jump/images/4/4e/Hokkaido_Gals_Are_Super_Adorable!_SJ%2B_Volume_1.png",
-\\ "wiseread_settings": {
-\\   "title_template": "${ number }. ${ title }"
-\\ },
+/* "wiseread_settings": {
+/*   "title_template": "${ number }. ${ title }"
+/* },
   "chapters": {
     "5": {
       "title": "Розділ 5",
