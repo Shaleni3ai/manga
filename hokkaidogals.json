@@ -3,7 +3,7 @@
   "description": "gals",
   "artist": "1",
   "author": "2",
-  "cover": "https://mangaplus.shueisha.co.jp/drm/title/100116/title_thumbnail_portrait_list/144471.jpg?key=0108c07efbcdd1196570f27d6e9aa384&duration=86400",
+  "cover": "https://static.wikia.nocookie.net/weeky-shonen-jump/images/4/4e/Hokkaido_Gals_Are_Super_Adorable!_SJ%2B_Volume_1.png",
   "wiseread_settings": {
     "title_template": "${ number }. ${ title }"
   },
