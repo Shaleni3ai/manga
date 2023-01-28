@@ -8,9 +8,9 @@
     "title_template": "${ number }. ${ title }"
   },
   "chapters": {
-    "1": {
+    "5": {
       "title": "Розділ 5",
-      "volume": "5",
+      "volume": "1",
       "wiseread": {
         "direct": "https://drive.google.com/file/d/145odSnG_QmdI_YZ4a77hWVNNaWzuabnn/view?usp=share_link"
       },
