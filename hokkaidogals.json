@@ -3,7 +3,7 @@
   "description": "gals",
   "artist": "1",
   "author": "2",
-  "cover": "https://drive.google.com/file/d/1nRJwvmXp6yiwwbXZoVQWnBdQQ6mHwwzp/view?usp=share_link",
+  "cover": "https://drive.google.com/file/d/1nRJwvmXp6yiwwbXZoVQWnBdQQ6mHwwzp/view",
   "wiseread_settings": {
     "title_template": "${ number }. ${ title }"
   },
